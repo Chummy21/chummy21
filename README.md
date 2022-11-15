@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chioma Okafor. 
-- 👀 I’m interested in DevOps/Cybersecurity 
-- 🌱 I’m currently upskilling in Cloud Computing 
-- 💞️ I’m looking to collaborate on every subject associated with the cloud
+- 👀 I’m interested in DevOps/Cybersecurity.
+- 🌱 I’m currently upskilling in Cloud Computing Essentials.
+- 💞️ I’m looking to collaborate on every subject associated with the cloud.
 - 📫 You can reach me on https://linkedin.com/in/okafor-chioma/
 
 <!---
