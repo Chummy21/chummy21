@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chummy21
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning IT skills
-- 💞️ I’m looking to collaborate on every new subject
-- 📫 How to reach me chiomagerald@gmail.com
+- 👋 Hi, I’m Chioma Okafor. 
+- 👀 I’m interested in DevOps/Cybersecurity 
+- 🌱 I’m currently upskilling in Cloud Computing 
+- 💞️ I’m looking to collaborate on every subject associated with the cloud
+- 📫 You can reach me on https://linkedin.com/in/okafor-chioma/
 
 <!---
 Chummy21/Chummy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
