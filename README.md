@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing/DevOps/Cybersecurity.
 - 🌱 I’m currently upskilling in Cloud Computing Essentials.
 - 💞️ I’m looking to collaborate on every subject associated with the cloud.
-- 📫 You can reach me on chiomagerald@gmail.com 
+- 📫 I can be reached on chiomagerald@gmail.com 
 or
 https://linkedin.com/in/okafor-chioma/
 
