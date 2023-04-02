@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chioma Okafor. 
 - 👀 I’m interested in Cloud Computing/DevOps/Cybersecurity.
 - 🌱 I’m currently upskilling in Cloud Computing Essentials.
-- 💞️ I’m looking to collaborate on every subject associated with the cloud.
+- 💞️ I’m actively searching for internship or entry-level cloud roles
 - 📫 I can be reached on chiomagerald@gmail.com 
 or
 https://linkedin.com/in/okafor-chioma/
