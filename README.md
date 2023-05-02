@@ -2,8 +2,8 @@
 - ☁️ I am an AWS and Azure cloud practitioner
 - 👀 I’m interested in Cloud Computing/DevOps/Cybersecurity.
 - 🌱 I’m currently upskilling to become a Solutions Architect and working on Cloud Computing Projects.
-- 💞️ I’m actively searching for internships or entry-level cloud roles.
-- ⚡ Fun fact: I love learning new things everyday. 
+- 💞️ I’m actively searching for internships or entry-level cloud roles. 
+- ⚡ Fun fact: I love research and learning new things everyday. 
 - 📫 I can be reached on chiomagerald@gmail.com 
 or
 https://linkedin.com/in/okafor-chioma/
