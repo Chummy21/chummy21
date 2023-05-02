@@ -6,7 +6,9 @@
 or
 https://linkedin.com/in/okafor-chioma/
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chizzy2021&theme=nightowl)](https://git.io/streak-stats)
+# Github Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chummy21&theme=nightowl)](https://git.io/streak-stats)
 
 
 
