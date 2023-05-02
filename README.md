@@ -6,6 +6,10 @@
 or
 https://linkedin.com/in/okafor-chioma/
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chizzy2021&theme=nightowl)](https://git.io/streak-stats)
+
+
+
 <!---
 Chummy21/Chummy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
